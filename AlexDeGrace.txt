@@ -1,2 +1,4 @@
 Name : Alex DeGrace
 Email: adegr091@uottawa.ca
+
+I am in my local git repo
